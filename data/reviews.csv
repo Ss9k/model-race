@@ -1,0 +1,501 @@
+review_id,review,sentiment
+1,I would not recommend it. The setup process was confusing and took far too long.,negative
+2,"So far, the customer support has been a pleasant surprise because it resolved my issue quickly and politely.",positive
+3,I would not recommend it. The price feels too high for what is included.,negative
+4,I am satisfied with this purchase. The performance stays responsive while running several apps.,positive
+5,I am really happy with the setup process. It was simple and took only a few minutes.,positive
+6,The performance is poor: it becomes slow when running more than one app.,negative
+7,I noticed immediately that the price feels too high for what is included.,negative
+8,I would recommend it. The price feels fair for the features included.,positive
+9,One thing I appreciate is the customer support; it resolved my issue quickly and politely.,positive
+10,"For everyday use, the instructions is frustrating and it were unclear and left out important steps.",negative
+11,This purchase was worth it: the battery life lasts all day even with heavy use.,positive
+12,I am satisfied with this purchase. The return process was straightforward and handled without hassle.,positive
+13,I am disappointed with the design. It looks awkward and is uncomfortable to use.,negative
+14,The product impressed me. Its build quality feels sturdy and well finished.,positive
+15,I had a bad experience with the price because it feels too high for what is included.,negative
+16,"So far, the packaging has been a letdown because it was damaged and the contents were poorly protected.",negative
+17,The connection works very poorly; it drops repeatedly without any clear reason.,negative
+18,I had a good experience with the screen because it looks bright and clear indoors and outdoors.,positive
+19,The customer support is poor: it failed to resolve my issue after multiple attempts.,negative
+20,"After using it for a while, I found that the design looks awkward and is uncomfortable to use.",negative
+21,The product disappointed me. Its connection drops repeatedly without any clear reason.,negative
+22,I would not recommend it. The connection drops repeatedly without any clear reason.,negative
+23,I had a bad experience with the screen because it looks dim and is difficult to read.,negative
+24,"After using it for a while, I found that the setup process was confusing and took far too long.",negative
+25,The customer support works very well; it resolved my issue quickly and politely.,positive
+26,One major problem is the materials; it feel cheap and already show signs of wear.,negative
+27,I am disappointed with the overall experience. It has been frustrating and unreliable so far.,negative
+28,One thing I appreciate is the materials; it feel durable and better than I expected.,positive
+29,I noticed immediately that the sound quality produces clear audio with balanced bass.,positive
+30,The product disappointed me. Its build quality feels flimsy and poorly assembled.,negative
+31,I had a bad experience with the size because it is inconvenient for normal everyday use.,negative
+32,"So far, the build quality has been a letdown because it feels flimsy and poorly assembled.",negative
+33,"So far, the return process has been a letdown because it was complicated and took too much effort.",negative
+34,I had a good experience with the app because it is easy to navigate and rarely crashes.,positive
+35,"After using it for a while, I can say the battery life lasts all day even with heavy use.",positive
+36,"For everyday use, the build quality is frustrating and it feels flimsy and poorly assembled.",negative
+37,One major problem is the design; it looks awkward and is uncomfortable to use.,negative
+38,"For everyday use, the customer support is great and it resolved my issue quickly and politely.",positive
+39,The materials is excellent: it feel durable and better than I expected.,positive
+40,The delivery works very well; it arrived earlier than the estimated date.,positive
+41,I had a bad experience with the packaging because it was damaged and the contents were poorly protected.,negative
+42,"After using it for a while, I can say the sound quality produces clear audio with balanced bass.",positive
+43,The connection is poor: it drops repeatedly without any clear reason.,negative
+44,One thing I appreciate is the return process; it was straightforward and handled without hassle.,positive
+45,I would recommend it. The screen looks bright and clear indoors and outdoors.,positive
+46,I am satisfied with this purchase. The customer support resolved my issue quickly and politely.,positive
+47,I am really happy with the battery life. It lasts all day even with heavy use.,positive
+48,The battery life works very well; it lasts all day even with heavy use.,positive
+49,This purchase was not worth it: the design looks awkward and is uncomfortable to use.,negative
+50,This purchase was worth it: the camera quality captures sharp photos with natural colours.,positive
+51,I would recommend it. The customer support resolved my issue quickly and politely.,positive
+52,I am really happy with the return process. It was straightforward and handled without hassle.,positive
+53,The packaging is excellent: it was secure and everything arrived undamaged.,positive
+54,I had a bad experience with the design because it looks awkward and is uncomfortable to use.,negative
+55,The return process works very well; it was straightforward and handled without hassle.,positive
+56,One thing I appreciate is the delivery; it arrived earlier than the estimated date.,positive
+57,"For everyday use, the performance is great and it stays responsive while running several apps.",positive
+58,"For everyday use, the camera quality is great and it captures sharp photos with natural colours.",positive
+59,This purchase was worth it: the instructions were clear and easy to follow.,positive
+60,I am really happy with the build quality. It feels sturdy and well finished.,positive
+61,I noticed immediately that the connection drops repeatedly without any clear reason.,negative
+62,I regret this purchase. The battery life runs out quickly even with light use.,negative
+63,"So far, the customer support has been a letdown because it failed to resolve my issue after multiple attempts.",negative
+64,I regret this purchase. The size is inconvenient for normal everyday use.,negative
+65,The build quality is excellent: it feels sturdy and well finished.,positive
+66,I am really happy with the keyboard. It feels comfortable during long typing sessions.,positive
+67,The product disappointed me. Its instructions were unclear and left out important steps.,negative
+68,I would recommend it. The keyboard feels comfortable during long typing sessions.,positive
+69,I had a good experience with the connection because it has been stable without unexpected dropouts.,positive
+70,The packaging works very poorly; it was damaged and the contents were poorly protected.,negative
+71,The sound quality works very poorly; it is distorted and lacks clear detail.,negative
+72,I am disappointed with the sound quality. It is distorted and lacks clear detail.,negative
+73,The screen is poor: it looks dim and is difficult to read.,negative
+74,The keyboard is poor: it feels uncomfortable during longer typing sessions.,negative
+75,"After using it for a while, I found that the customer support failed to resolve my issue after multiple attempts.",negative
+76,"After using it for a while, I found that the delivery arrived several days later than promised.",negative
+77,"For everyday use, the camera quality is frustrating and it produces blurry photos with dull colours.",negative
+78,I had a good experience with the customer support because it resolved my issue quickly and politely.,positive
+79,I noticed immediately that the instructions were unclear and left out important steps.,negative
+80,I would not recommend it. The materials feel cheap and already show signs of wear.,negative
+81,The performance works very well; it stays responsive while running several apps.,positive
+82,I had a good experience with the build quality because it feels sturdy and well finished.,positive
+83,The product disappointed me. Its size is inconvenient for normal everyday use.,negative
+84,One thing I appreciate is the app; it is easy to navigate and rarely crashes.,positive
+85,The product disappointed me. Its customer support failed to resolve my issue after multiple attempts.,negative
+86,I am satisfied with this purchase. The build quality feels sturdy and well finished.,positive
+87,The app works very well; it is easy to navigate and rarely crashes.,positive
+88,"So far, the design has been a letdown because it looks awkward and is uncomfortable to use.",negative
+89,I noticed immediately that the delivery arrived several days later than promised.,negative
+90,"After using it for a while, I found that the screen looks dim and is difficult to read.",negative
+91,The packaging is poor: it was damaged and the contents were poorly protected.,negative
+92,The size is poor: it is inconvenient for normal everyday use.,negative
+93,"So far, the setup process has been a letdown because it was confusing and took far too long.",negative
+94,This purchase was not worth it: the customer support failed to resolve my issue after multiple attempts.,negative
+95,I regret this purchase. The app is confusing to navigate and crashes frequently.,negative
+96,The product disappointed me. Its sound quality is distorted and lacks clear detail.,negative
+97,"So far, the build quality has been a pleasant surprise because it feels sturdy and well finished.",positive
+98,I noticed immediately that the customer support resolved my issue quickly and politely.,positive
+99,The product disappointed me. Its return process was complicated and took too much effort.,negative
+100,"After using it for a while, I can say the camera quality captures sharp photos with natural colours.",positive
+101,"After using it for a while, I can say the overall experience has been smooth and reliable so far.",positive
+102,The return process is poor: it was complicated and took too much effort.,negative
+103,The product impressed me. Its camera quality captures sharp photos with natural colours.,positive
+104,I would not recommend it. The customer support failed to resolve my issue after multiple attempts.,negative
+105,I had a bad experience with the build quality because it feels flimsy and poorly assembled.,negative
+106,I had a good experience with the delivery because it arrived earlier than the estimated date.,positive
+107,I regret this purchase. The keyboard feels uncomfortable during longer typing sessions.,negative
+108,"So far, the size has been a pleasant surprise because it is exactly what I needed for everyday use.",positive
+109,One major problem is the build quality; it feels flimsy and poorly assembled.,negative
+110,"After using it for a while, I can say the packaging was secure and everything arrived undamaged.",positive
+111,I would recommend it. The packaging was secure and everything arrived undamaged.,positive
+112,I had a bad experience with the app because it is confusing to navigate and crashes frequently.,negative
+113,I would not recommend it. The build quality feels flimsy and poorly assembled.,negative
+114,I am satisfied with this purchase. The camera quality captures sharp photos with natural colours.,positive
+115,The product disappointed me. Its materials feel cheap and already show signs of wear.,negative
+116,"For everyday use, the screen is frustrating and it looks dim and is difficult to read.",negative
+117,I am really happy with the overall experience. It has been smooth and reliable so far.,positive
+118,One thing I appreciate is the connection; it has been stable without unexpected dropouts.,positive
+119,I am really happy with the price. It feels fair for the features included.,positive
+120,One thing I appreciate is the keyboard; it feels comfortable during long typing sessions.,positive
+121,I am satisfied with this purchase. The materials feel durable and better than I expected.,positive
+122,I would recommend it. The app is easy to navigate and rarely crashes.,positive
+123,"For everyday use, the customer support is frustrating and it failed to resolve my issue after multiple attempts.",negative
+124,I noticed immediately that the performance stays responsive while running several apps.,positive
+125,I noticed immediately that the size is exactly what I needed for everyday use.,positive
+126,The product impressed me. Its size is exactly what I needed for everyday use.,positive
+127,The design works very poorly; it looks awkward and is uncomfortable to use.,negative
+128,"So far, the instructions has been a pleasant surprise because it were clear and easy to follow.",positive
+129,This purchase was worth it: the price feels fair for the features included.,positive
+130,The build quality is poor: it feels flimsy and poorly assembled.,negative
+131,"For everyday use, the screen is great and it looks bright and clear indoors and outdoors.",positive
+132,This purchase was worth it: the setup process was simple and took only a few minutes.,positive
+133,I regret this purchase. The materials feel cheap and already show signs of wear.,negative
+134,"So far, the camera quality has been a letdown because it produces blurry photos with dull colours.",negative
+135,I noticed immediately that the packaging was secure and everything arrived undamaged.,positive
+136,"For everyday use, the delivery is great and it arrived earlier than the estimated date.",positive
+137,I noticed immediately that the return process was straightforward and handled without hassle.,positive
+138,The camera quality works very well; it captures sharp photos with natural colours.,positive
+139,I had a good experience with the camera quality because it captures sharp photos with natural colours.,positive
+140,"After using it for a while, I found that the camera quality produces blurry photos with dull colours.",negative
+141,The customer support is excellent: it resolved my issue quickly and politely.,positive
+142,I am really happy with the materials. It feel durable and better than I expected.,positive
+143,"So far, the size has been a letdown because it is inconvenient for normal everyday use.",negative
+144,One thing I appreciate is the sound quality; it produces clear audio with balanced bass.,positive
+145,One major problem is the battery life; it runs out quickly even with light use.,negative
+146,One major problem is the camera quality; it produces blurry photos with dull colours.,negative
+147,I noticed immediately that the camera quality captures sharp photos with natural colours.,positive
+148,The size is excellent: it is exactly what I needed for everyday use.,positive
+149,The battery life works very poorly; it runs out quickly even with light use.,negative
+150,I would not recommend it. The app is confusing to navigate and crashes frequently.,negative
+151,"For everyday use, the battery life is great and it lasts all day even with heavy use.",positive
+152,I am satisfied with this purchase. The setup process was simple and took only a few minutes.,positive
+153,The product impressed me. Its keyboard feels comfortable during long typing sessions.,positive
+154,One thing I appreciate is the camera quality; it captures sharp photos with natural colours.,positive
+155,I had a bad experience with the materials because it feel cheap and already show signs of wear.,negative
+156,One major problem is the setup process; it was confusing and took far too long.,negative
+157,One thing I appreciate is the battery life; it lasts all day even with heavy use.,positive
+158,I noticed immediately that the materials feel durable and better than I expected.,positive
+159,I regret this purchase. The performance becomes slow when running more than one app.,negative
+160,"So far, the delivery has been a pleasant surprise because it arrived earlier than the estimated date.",positive
+161,The product impressed me. Its setup process was simple and took only a few minutes.,positive
+162,One major problem is the customer support; it failed to resolve my issue after multiple attempts.,negative
+163,This purchase was not worth it: the app is confusing to navigate and crashes frequently.,negative
+164,One thing I appreciate is the screen; it looks bright and clear indoors and outdoors.,positive
+165,"For everyday use, the return process is frustrating and it was complicated and took too much effort.",negative
+166,I am disappointed with the size. It is inconvenient for normal everyday use.,negative
+167,I am really happy with the screen. It looks bright and clear indoors and outdoors.,positive
+168,I would recommend it. The battery life lasts all day even with heavy use.,positive
+169,"So far, the instructions has been a letdown because it were unclear and left out important steps.",negative
+170,I had a good experience with the setup process because it was simple and took only a few minutes.,positive
+171,The screen works very well; it looks bright and clear indoors and outdoors.,positive
+172,The design is excellent: it looks clean and is comfortable to use.,positive
+173,"For everyday use, the connection is frustrating and it drops repeatedly without any clear reason.",negative
+174,The price is excellent: it feels fair for the features included.,positive
+175,I noticed immediately that the setup process was simple and took only a few minutes.,positive
+176,The product impressed me. Its app is easy to navigate and rarely crashes.,positive
+177,The product disappointed me. Its price feels too high for what is included.,negative
+178,I am satisfied with this purchase. The app is easy to navigate and rarely crashes.,positive
+179,The performance is excellent: it stays responsive while running several apps.,positive
+180,"After using it for a while, I found that the price feels too high for what is included.",negative
+181,I noticed immediately that the packaging was damaged and the contents were poorly protected.,negative
+182,I am really happy with the instructions. It were clear and easy to follow.,positive
+183,The performance works very poorly; it becomes slow when running more than one app.,negative
+184,I regret this purchase. The camera quality produces blurry photos with dull colours.,negative
+185,This purchase was not worth it: the instructions were unclear and left out important steps.,negative
+186,The packaging works very well; it was secure and everything arrived undamaged.,positive
+187,The setup process works very poorly; it was confusing and took far too long.,negative
+188,"After using it for a while, I can say the customer support resolved my issue quickly and politely.",positive
+189,"After using it for a while, I can say the materials feel durable and better than I expected.",positive
+190,I am satisfied with this purchase. The design looks clean and is comfortable to use.,positive
+191,This purchase was not worth it: the connection drops repeatedly without any clear reason.,negative
+192,"So far, the price has been a letdown because it feels too high for what is included.",negative
+193,I would not recommend it. The performance becomes slow when running more than one app.,negative
+194,This purchase was not worth it: the camera quality produces blurry photos with dull colours.,negative
+195,"For everyday use, the setup process is great and it was simple and took only a few minutes.",positive
+196,The overall experience is excellent: it has been smooth and reliable so far.,positive
+197,"After using it for a while, I can say the performance stays responsive while running several apps.",positive
+198,The sound quality is excellent: it produces clear audio with balanced bass.,positive
+199,This purchase was worth it: the performance stays responsive while running several apps.,positive
+200,I am disappointed with the price. It feels too high for what is included.,negative
+201,This purchase was not worth it: the materials feel cheap and already show signs of wear.,negative
+202,"For everyday use, the build quality is great and it feels sturdy and well finished.",positive
+203,The connection works very well; it has been stable without unexpected dropouts.,positive
+204,This purchase was worth it: the design looks clean and is comfortable to use.,positive
+205,I would recommend it. The design looks clean and is comfortable to use.,positive
+206,I had a good experience with the instructions because it were clear and easy to follow.,positive
+207,I would recommend it. The size is exactly what I needed for everyday use.,positive
+208,This purchase was worth it: the customer support resolved my issue quickly and politely.,positive
+209,I would not recommend it. The size is inconvenient for normal everyday use.,negative
+210,I had a bad experience with the setup process because it was confusing and took far too long.,negative
+211,I am disappointed with the battery life. It runs out quickly even with light use.,negative
+212,"After using it for a while, I can say the price feels fair for the features included.",positive
+213,"So far, the delivery has been a letdown because it arrived several days later than promised.",negative
+214,I noticed immediately that the keyboard feels uncomfortable during longer typing sessions.,negative
+215,"For everyday use, the battery life is frustrating and it runs out quickly even with light use.",negative
+216,I am disappointed with the setup process. It was confusing and took far too long.,negative
+217,The product disappointed me. Its performance becomes slow when running more than one app.,negative
+218,I had a good experience with the size because it is exactly what I needed for everyday use.,positive
+219,I regret this purchase. The sound quality is distorted and lacks clear detail.,negative
+220,I am really happy with the connection. It has been stable without unexpected dropouts.,positive
+221,"After using it for a while, I found that the packaging was damaged and the contents were poorly protected.",negative
+222,The camera quality works very poorly; it produces blurry photos with dull colours.,negative
+223,I noticed immediately that the screen looks bright and clear indoors and outdoors.,positive
+224,The instructions is excellent: it were clear and easy to follow.,positive
+225,This purchase was worth it: the packaging was secure and everything arrived undamaged.,positive
+226,I noticed immediately that the setup process was confusing and took far too long.,negative
+227,I noticed immediately that the connection has been stable without unexpected dropouts.,positive
+228,I would not recommend it. The return process was complicated and took too much effort.,negative
+229,I noticed immediately that the screen looks dim and is difficult to read.,negative
+230,I would recommend it. The delivery arrived earlier than the estimated date.,positive
+231,I would recommend it. The setup process was simple and took only a few minutes.,positive
+232,The build quality works very well; it feels sturdy and well finished.,positive
+233,I had a bad experience with the return process because it was complicated and took too much effort.,negative
+234,The product impressed me. Its battery life lasts all day even with heavy use.,positive
+235,The product disappointed me. Its setup process was confusing and took far too long.,negative
+236,"For everyday use, the sound quality is frustrating and it is distorted and lacks clear detail.",negative
+237,I noticed immediately that the build quality feels flimsy and poorly assembled.,negative
+238,"After using it for a while, I can say the design looks clean and is comfortable to use.",positive
+239,I would recommend it. The performance stays responsive while running several apps.,positive
+240,"So far, the app has been a pleasant surprise because it is easy to navigate and rarely crashes.",positive
+241,I am disappointed with the performance. It becomes slow when running more than one app.,negative
+242,"After using it for a while, I can say the return process was straightforward and handled without hassle.",positive
+243,I had a bad experience with the instructions because it were unclear and left out important steps.,negative
+244,I noticed immediately that the battery life lasts all day even with heavy use.,positive
+245,I am disappointed with the packaging. It was damaged and the contents were poorly protected.,negative
+246,I am satisfied with this purchase. The sound quality produces clear audio with balanced bass.,positive
+247,One thing I appreciate is the build quality; it feels sturdy and well finished.,positive
+248,I am satisfied with this purchase. The screen looks bright and clear indoors and outdoors.,positive
+249,I regret this purchase. The delivery arrived several days later than promised.,negative
+250,The design works very well; it looks clean and is comfortable to use.,positive
+251,The materials works very poorly; it feel cheap and already show signs of wear.,negative
+252,I would not recommend it. The keyboard feels uncomfortable during longer typing sessions.,negative
+253,One major problem is the size; it is inconvenient for normal everyday use.,negative
+254,One thing I appreciate is the instructions; it were clear and easy to follow.,positive
+255,"So far, the keyboard has been a letdown because it feels uncomfortable during longer typing sessions.",negative
+256,I noticed immediately that the design looks awkward and is uncomfortable to use.,negative
+257,One thing I appreciate is the performance; it stays responsive while running several apps.,positive
+258,I regret this purchase. The packaging was damaged and the contents were poorly protected.,negative
+259,I had a good experience with the performance because it stays responsive while running several apps.,positive
+260,"After using it for a while, I found that the instructions were unclear and left out important steps.",negative
+261,The screen works very poorly; it looks dim and is difficult to read.,negative
+262,The product impressed me. Its price feels fair for the features included.,positive
+263,The price is poor: it feels too high for what is included.,negative
+264,"For everyday use, the sound quality is great and it produces clear audio with balanced bass.",positive
+265,I am really happy with the performance. It stays responsive while running several apps.,positive
+266,"For everyday use, the connection is great and it has been stable without unexpected dropouts.",positive
+267,I noticed immediately that the return process was complicated and took too much effort.,negative
+268,The product impressed me. Its sound quality produces clear audio with balanced bass.,positive
+269,The design is poor: it looks awkward and is uncomfortable to use.,negative
+270,"For everyday use, the price is great and it feels fair for the features included.",positive
+271,The return process is excellent: it was straightforward and handled without hassle.,positive
+272,I would recommend it. The instructions were clear and easy to follow.,positive
+273,I am satisfied with this purchase. The connection has been stable without unexpected dropouts.,positive
+274,One major problem is the delivery; it arrived several days later than promised.,negative
+275,This purchase was not worth it: the keyboard feels uncomfortable during longer typing sessions.,negative
+276,I noticed immediately that the sound quality is distorted and lacks clear detail.,negative
+277,The product disappointed me. Its packaging was damaged and the contents were poorly protected.,negative
+278,"After using it for a while, I found that the performance becomes slow when running more than one app.",negative
+279,"So far, the screen has been a letdown because it looks dim and is difficult to read.",negative
+280,"So far, the price has been a pleasant surprise because it feels fair for the features included.",positive
+281,I am disappointed with the delivery. It arrived several days later than promised.,negative
+282,"After using it for a while, I can say the size is exactly what I needed for everyday use.",positive
+283,I regret this purchase. The design looks awkward and is uncomfortable to use.,negative
+284,The materials works very well; it feel durable and better than I expected.,positive
+285,I am satisfied with this purchase. The price feels fair for the features included.,positive
+286,The app is poor: it is confusing to navigate and crashes frequently.,negative
+287,I am disappointed with the keyboard. It feels uncomfortable during longer typing sessions.,negative
+288,I regret this purchase. The return process was complicated and took too much effort.,negative
+289,This purchase was not worth it: the price feels too high for what is included.,negative
+290,"After using it for a while, I found that the keyboard feels uncomfortable during longer typing sessions.",negative
+291,The setup process is poor: it was confusing and took far too long.,negative
+292,"For everyday use, the keyboard is frustrating and it feels uncomfortable during longer typing sessions.",negative
+293,One major problem is the performance; it becomes slow when running more than one app.,negative
+294,I regret this purchase. The build quality feels flimsy and poorly assembled.,negative
+295,"So far, the setup process has been a pleasant surprise because it was simple and took only a few minutes.",positive
+296,I noticed immediately that the app is easy to navigate and rarely crashes.,positive
+297,"For everyday use, the delivery is frustrating and it arrived several days later than promised.",negative
+298,I am disappointed with the return process. It was complicated and took too much effort.,negative
+299,One major problem is the connection; it drops repeatedly without any clear reason.,negative
+300,I noticed immediately that the size is inconvenient for normal everyday use.,negative
+301,One major problem is the app; it is confusing to navigate and crashes frequently.,negative
+302,I am satisfied with this purchase. The size is exactly what I needed for everyday use.,positive
+303,This purchase was not worth it: the delivery arrived several days later than promised.,negative
+304,"So far, the design has been a pleasant surprise because it looks clean and is comfortable to use.",positive
+305,The product impressed me. Its packaging was secure and everything arrived undamaged.,positive
+306,"After using it for a while, I can say the instructions were clear and easy to follow.",positive
+307,"So far, the battery life has been a letdown because it runs out quickly even with light use.",negative
+308,The size works very well; it is exactly what I needed for everyday use.,positive
+309,The setup process works very well; it was simple and took only a few minutes.,positive
+310,One thing I appreciate is the price; it feels fair for the features included.,positive
+311,"So far, the sound quality has been a letdown because it is distorted and lacks clear detail.",negative
+312,One thing I appreciate is the size; it is exactly what I needed for everyday use.,positive
+313,This purchase was not worth it: the performance becomes slow when running more than one app.,negative
+314,I had a bad experience with the performance because it becomes slow when running more than one app.,negative
+315,I noticed immediately that the price feels fair for the features included.,positive
+316,This purchase was not worth it: the screen looks dim and is difficult to read.,negative
+317,"For everyday use, the design is frustrating and it looks awkward and is uncomfortable to use.",negative
+318,One thing I appreciate is the setup process; it was simple and took only a few minutes.,positive
+319,One major problem is the price; it feels too high for what is included.,negative
+320,I noticed immediately that the customer support failed to resolve my issue after multiple attempts.,negative
+321,One thing I appreciate is the packaging; it was secure and everything arrived undamaged.,positive
+322,I would not recommend it. The instructions were unclear and left out important steps.,negative
+323,"For everyday use, the keyboard is great and it feels comfortable during long typing sessions.",positive
+324,"After using it for a while, I found that the materials feel cheap and already show signs of wear.",negative
+325,I am really happy with the customer support. It resolved my issue quickly and politely.,positive
+326,I would not recommend it. The screen looks dim and is difficult to read.,negative
+327,I would recommend it. The build quality feels sturdy and well finished.,positive
+328,"So far, the connection has been a pleasant surprise because it has been stable without unexpected dropouts.",positive
+329,I had a good experience with the return process because it was straightforward and handled without hassle.,positive
+330,One major problem is the packaging; it was damaged and the contents were poorly protected.,negative
+331,One thing I appreciate is the design; it looks clean and is comfortable to use.,positive
+332,I am satisfied with this purchase. The battery life lasts all day even with heavy use.,positive
+333,This purchase was worth it: the screen looks bright and clear indoors and outdoors.,positive
+334,"After using it for a while, I can say the screen looks bright and clear indoors and outdoors.",positive
+335,The app is excellent: it is easy to navigate and rarely crashes.,positive
+336,I am satisfied with this purchase. The packaging was secure and everything arrived undamaged.,positive
+337,"For everyday use, the performance is frustrating and it becomes slow when running more than one app.",negative
+338,The sound quality is poor: it is distorted and lacks clear detail.,negative
+339,I am really happy with the size. It is exactly what I needed for everyday use.,positive
+340,I had a good experience with the sound quality because it produces clear audio with balanced bass.,positive
+341,I am satisfied with this purchase. The keyboard feels comfortable during long typing sessions.,positive
+342,The product impressed me. Its connection has been stable without unexpected dropouts.,positive
+343,I am disappointed with the connection. It drops repeatedly without any clear reason.,negative
+344,The price works very poorly; it feels too high for what is included.,negative
+345,This purchase was worth it: the app is easy to navigate and rarely crashes.,positive
+346,"After using it for a while, I can say the keyboard feels comfortable during long typing sessions.",positive
+347,The overall experience is poor: it has been frustrating and unreliable so far.,negative
+348,"After using it for a while, I found that the app is confusing to navigate and crashes frequently.",negative
+349,The instructions works very well; it were clear and easy to follow.,positive
+350,The product disappointed me. Its screen looks dim and is difficult to read.,negative
+351,I had a bad experience with the battery life because it runs out quickly even with light use.,negative
+352,The product disappointed me. Its design looks awkward and is uncomfortable to use.,negative
+353,I had a good experience with the battery life because it lasts all day even with heavy use.,positive
+354,The product disappointed me. Its battery life runs out quickly even with light use.,negative
+355,One major problem is the instructions; it were unclear and left out important steps.,negative
+356,This purchase was worth it: the sound quality produces clear audio with balanced bass.,positive
+357,"For everyday use, the size is great and it is exactly what I needed for everyday use.",positive
+358,I noticed immediately that the app is confusing to navigate and crashes frequently.,negative
+359,"For everyday use, the materials is great and it feel durable and better than I expected.",positive
+360,"After using it for a while, I can say the app is easy to navigate and rarely crashes.",positive
+361,I would recommend it. The sound quality produces clear audio with balanced bass.,positive
+362,One major problem is the keyboard; it feels uncomfortable during longer typing sessions.,negative
+363,I would recommend it. The materials feel durable and better than I expected.,positive
+364,This purchase was worth it: the delivery arrived earlier than the estimated date.,positive
+365,"So far, the keyboard has been a pleasant surprise because it feels comfortable during long typing sessions.",positive
+366,The product impressed me. Its screen looks bright and clear indoors and outdoors.,positive
+367,I had a bad experience with the camera quality because it produces blurry photos with dull colours.,negative
+368,I regret this purchase. The customer support failed to resolve my issue after multiple attempts.,negative
+369,"For everyday use, the instructions is great and it were clear and easy to follow.",positive
+370,The instructions is poor: it were unclear and left out important steps.,negative
+371,The screen is excellent: it looks bright and clear indoors and outdoors.,positive
+372,"For everyday use, the app is frustrating and it is confusing to navigate and crashes frequently.",negative
+373,This purchase was worth it: the size is exactly what I needed for everyday use.,positive
+374,I noticed immediately that the battery life runs out quickly even with light use.,negative
+375,I regret this purchase. The screen looks dim and is difficult to read.,negative
+376,The product impressed me. Its design looks clean and is comfortable to use.,positive
+377,The product disappointed me. Its app is confusing to navigate and crashes frequently.,negative
+378,"So far, the packaging has been a pleasant surprise because it was secure and everything arrived undamaged.",positive
+379,I noticed immediately that the delivery arrived earlier than the estimated date.,positive
+380,"For everyday use, the packaging is great and it was secure and everything arrived undamaged.",positive
+381,The price works very well; it feels fair for the features included.,positive
+382,"For everyday use, the size is frustrating and it is inconvenient for normal everyday use.",negative
+383,"So far, the battery life has been a pleasant surprise because it lasts all day even with heavy use.",positive
+384,The customer support works very poorly; it failed to resolve my issue after multiple attempts.,negative
+385,"For everyday use, the materials is frustrating and it feel cheap and already show signs of wear.",negative
+386,I am satisfied with this purchase. The delivery arrived earlier than the estimated date.,positive
+387,The keyboard works very poorly; it feels uncomfortable during longer typing sessions.,negative
+388,The camera quality is excellent: it captures sharp photos with natural colours.,positive
+389,I am really happy with the design. It looks clean and is comfortable to use.,positive
+390,The keyboard is excellent: it feels comfortable during long typing sessions.,positive
+391,I regret this purchase. The price feels too high for what is included.,negative
+392,I noticed immediately that the materials feel cheap and already show signs of wear.,negative
+393,I noticed immediately that the performance becomes slow when running more than one app.,negative
+394,"So far, the materials has been a pleasant surprise because it feel durable and better than I expected.",positive
+395,One major problem is the screen; it looks dim and is difficult to read.,negative
+396,"After using it for a while, I found that the return process was complicated and took too much effort.",negative
+397,The app works very poorly; it is confusing to navigate and crashes frequently.,negative
+398,This purchase was not worth it: the build quality feels flimsy and poorly assembled.,negative
+399,"After using it for a while, I can say the connection has been stable without unexpected dropouts.",positive
+400,I am satisfied with this purchase. The instructions were clear and easy to follow.,positive
+401,I had a good experience with the materials because it feel durable and better than I expected.,positive
+402,The product disappointed me. Its keyboard feels uncomfortable during longer typing sessions.,negative
+403,I regret this purchase. The instructions were unclear and left out important steps.,negative
+404,The battery life is poor: it runs out quickly even with light use.,negative
+405,I had a bad experience with the connection because it drops repeatedly without any clear reason.,negative
+406,"After using it for a while, I found that the connection drops repeatedly without any clear reason.",negative
+407,The delivery is poor: it arrived several days later than promised.,negative
+408,This purchase was not worth it: the sound quality is distorted and lacks clear detail.,negative
+409,The product disappointed me. Its camera quality produces blurry photos with dull colours.,negative
+410,The product impressed me. Its instructions were clear and easy to follow.,positive
+411,"For everyday use, the design is great and it looks clean and is comfortable to use.",positive
+412,I had a good experience with the keyboard because it feels comfortable during long typing sessions.,positive
+413,This purchase was worth it: the materials feel durable and better than I expected.,positive
+414,"So far, the performance has been a letdown because it becomes slow when running more than one app.",negative
+415,"So far, the return process has been a pleasant surprise because it was straightforward and handled without hassle.",positive
+416,I would not recommend it. The delivery arrived several days later than promised.,negative
+417,This purchase was not worth it: the battery life runs out quickly even with light use.,negative
+418,The setup process is excellent: it was simple and took only a few minutes.,positive
+419,The delivery is excellent: it arrived earlier than the estimated date.,positive
+420,This purchase was not worth it: the packaging was damaged and the contents were poorly protected.,negative
+421,The battery life is excellent: it lasts all day even with heavy use.,positive
+422,This purchase was not worth it: the return process was complicated and took too much effort.,negative
+423,The size works very poorly; it is inconvenient for normal everyday use.,negative
+424,I noticed immediately that the keyboard feels comfortable during long typing sessions.,positive
+425,I am disappointed with the app. It is confusing to navigate and crashes frequently.,negative
+426,"After using it for a while, I can say the build quality feels sturdy and well finished.",positive
+427,I noticed immediately that the instructions were clear and easy to follow.,positive
+428,"So far, the screen has been a pleasant surprise because it looks bright and clear indoors and outdoors.",positive
+429,I am disappointed with the camera quality. It produces blurry photos with dull colours.,negative
+430,"So far, the app has been a letdown because it is confusing to navigate and crashes frequently.",negative
+431,I regret this purchase. The setup process was confusing and took far too long.,negative
+432,I am really happy with the sound quality. It produces clear audio with balanced bass.,positive
+433,The build quality works very poorly; it feels flimsy and poorly assembled.,negative
+434,"After using it for a while, I found that the size is inconvenient for normal everyday use.",negative
+435,I am really happy with the delivery. It arrived earlier than the estimated date.,positive
+436,I had a bad experience with the sound quality because it is distorted and lacks clear detail.,negative
+437,The camera quality is poor: it produces blurry photos with dull colours.,negative
+438,I would recommend it. The connection has been stable without unexpected dropouts.,positive
+439,I am really happy with the camera quality. It captures sharp photos with natural colours.,positive
+440,I am disappointed with the customer support. It failed to resolve my issue after multiple attempts.,negative
+441,I noticed immediately that the build quality feels sturdy and well finished.,positive
+442,I would not recommend it. The packaging was damaged and the contents were poorly protected.,negative
+443,I noticed immediately that the camera quality produces blurry photos with dull colours.,negative
+444,I noticed immediately that the design looks clean and is comfortable to use.,positive
+445,I am disappointed with the build quality. It feels flimsy and poorly assembled.,negative
+446,"So far, the connection has been a letdown because it drops repeatedly without any clear reason.",negative
+447,I had a good experience with the packaging because it was secure and everything arrived undamaged.,positive
+448,I had a bad experience with the delivery because it arrived several days later than promised.,negative
+449,This purchase was not worth it: the size is inconvenient for normal everyday use.,negative
+450,I had a bad experience with the customer support because it failed to resolve my issue after multiple attempts.,negative
+451,This purchase was worth it: the connection has been stable without unexpected dropouts.,positive
+452,"After using it for a while, I can say the delivery arrived earlier than the estimated date.",positive
+453,This purchase was not worth it: the setup process was confusing and took far too long.,negative
+454,The keyboard works very well; it feels comfortable during long typing sessions.,positive
+455,The instructions works very poorly; it were unclear and left out important steps.,negative
+456,"For everyday use, the app is great and it is easy to navigate and rarely crashes.",positive
+457,I am disappointed with the instructions. It were unclear and left out important steps.,negative
+458,I would recommend it. The return process was straightforward and handled without hassle.,positive
+459,I regret this purchase. The connection drops repeatedly without any clear reason.,negative
+460,"For everyday use, the return process is great and it was straightforward and handled without hassle.",positive
+461,I am really happy with the app. It is easy to navigate and rarely crashes.,positive
+462,The product impressed me. Its delivery arrived earlier than the estimated date.,positive
+463,This purchase was worth it: the keyboard feels comfortable during long typing sessions.,positive
+464,One major problem is the sound quality; it is distorted and lacks clear detail.,negative
+465,The connection is excellent: it has been stable without unexpected dropouts.,positive
+466,"After using it for a while, I found that the battery life runs out quickly even with light use.",negative
+467,"So far, the camera quality has been a pleasant surprise because it captures sharp photos with natural colours.",positive
+468,The delivery works very poorly; it arrived several days later than promised.,negative
+469,The materials is poor: it feel cheap and already show signs of wear.,negative
+470,I had a good experience with the design because it looks clean and is comfortable to use.,positive
+471,I am disappointed with the screen. It looks dim and is difficult to read.,negative
+472,The return process works very poorly; it was complicated and took too much effort.,negative
+473,This purchase was worth it: the return process was straightforward and handled without hassle.,positive
+474,"For everyday use, the packaging is frustrating and it was damaged and the contents were poorly protected.",negative
+475,I had a bad experience with the keyboard because it feels uncomfortable during longer typing sessions.,negative
+476,I would not recommend it. The design looks awkward and is uncomfortable to use.,negative
+477,"After using it for a while, I found that the sound quality is distorted and lacks clear detail.",negative
+478,I would not recommend it. The battery life runs out quickly even with light use.,negative
+479,The product disappointed me. Its delivery arrived several days later than promised.,negative
+480,The product impressed me. Its performance stays responsive while running several apps.,positive
+481,I am really happy with the packaging. It was secure and everything arrived undamaged.,positive
+482,"So far, the performance has been a pleasant surprise because it stays responsive while running several apps.",positive
+483,"For everyday use, the setup process is frustrating and it was confusing and took far too long.",negative
+484,"So far, the sound quality has been a pleasant surprise because it produces clear audio with balanced bass.",positive
+485,"For everyday use, the price is frustrating and it feels too high for what is included.",negative
+486,This purchase was worth it: the build quality feels sturdy and well finished.,positive
+487,I am disappointed with the materials. It feel cheap and already show signs of wear.,negative
+488,"After using it for a while, I found that the build quality feels flimsy and poorly assembled.",negative
+489,The product impressed me. Its materials feel durable and better than I expected.,positive
+490,"So far, the materials has been a letdown because it feel cheap and already show signs of wear.",negative
+491,I had a good experience with the price because it feels fair for the features included.,positive
+492,"After using it for a while, I found that the overall experience has been frustrating and unreliable so far.",negative
+493,I would recommend it. The camera quality captures sharp photos with natural colours.,positive
+494,The product impressed me. Its return process was straightforward and handled without hassle.,positive
+495,The product impressed me. Its customer support resolved my issue quickly and politely.,positive
+496,"After using it for a while, I can say the setup process was simple and took only a few minutes.",positive
+497,I would not recommend it. The camera quality produces blurry photos with dull colours.,negative
+498,I would not recommend it. The sound quality is distorted and lacks clear detail.,negative
+499,One major problem is the return process; it was complicated and took too much effort.,negative
+500,The sound quality works very well; it produces clear audio with balanced bass.,positive
