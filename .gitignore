@@ -1,0 +1,11 @@
+# Environment & secrets
+.env
+.venv/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated LLM cache
+results/llm_cache.json
